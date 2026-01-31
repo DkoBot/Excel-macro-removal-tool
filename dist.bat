@@ -1,0 +1,1 @@
+PyInstaller -F -w widget.py --ico=ico.ico --upx-dir=E:\网络安全\ASwordx64\Tools\Other\upx

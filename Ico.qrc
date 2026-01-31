@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icopng">
+        <file>ico/文件夹.png</file>
+        <file>ico/删除.png</file>
+        <file>ico/汇总解锁.png</file>
+    </qresource>
+</RCC>
