@@ -1,5 +1,5 @@
 # 📋 Program Structure Documentation
-
+**Read this in other languages: [English](README.md), [中文](README_zh.md).**
 ## 🛠️ Tech Stack
 
 | Item | Technology Selection |
